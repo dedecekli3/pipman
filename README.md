@@ -9,7 +9,7 @@
 
 ## Použití
 Zapiš jména požadovaných balíčků do requirements.txt,
-pokud není dostupný internet nebo pip, vlož .wheel soubory do offline_libs/ ,
+pokud není dostupný internet nebo pip, vlož .wheel soubory do offline_libs,
 spusť:
 ```bash
 python autoinstall.py
