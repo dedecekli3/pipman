@@ -26,6 +26,6 @@ requirements.txt
 ## Použití
 Zapiš jména požadovaných balíčků do requirements.txt,
 pokud není dostupný internet nebo pip, vlož .wheel soubory do offline_libs,
-spusť:
+spusť v operativní složce:
 ```bash
 python autoinstall.py
